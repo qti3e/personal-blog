@@ -12,35 +12,34 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
-  subtitle: '🚀 QWER - Built using Svelte with ❤',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
+  url: 'https://parsa.ooo',
+  title: 'Parsa\'s Space',
+  subtitle: '🚀 - Built using Svelte with ❤',
+  description: 'Personal and Technical Notes of Parsa!',
   lang: 'en',
-  timeZone: 'Asia/Taipei',
+  timeZone: 'EST',
   since: 2022,
   cover: SiteCover,
   author: {
-    name: 'John Doe',
+    name: 'Parsa',
     status: '🚀',
-    statusTip:
-      '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
+    statusTip: 'Living life!',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
     avatar_96_png: Avatar_96_PNG,
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
-    website: 'https://github.com/kwchang0831/svelte-QWER',
-    github: 'https://github.com/kwchang0831',
-    email: 'contact@kwchang0831.dev',
-    bio: `Peace begins <br/> With a smile`,
+    website: 'https://parsa.ooo',
+    github: 'https://github.com/qti3e',
+    email: 'i@parsa.ooo',
+    bio: `Small pile of redundant protoplasm lumbering through the world.`,
   },
 };
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/qti3e'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -111,16 +110,16 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     name: 'About',
     url: '/about',
   },
-  {
-    name: 'See Docs 📄',
-    url: 'https://docs-svelte-qwer.vercel.app/',
-    rel: 'external',
-  },
-  {
-    name: 'Get QWER 🚀',
-    url: 'https://github.com/kwchang0831/svelte-QWER',
-    rel: 'external',
-  },
+  // {
+  //   name: 'See Docs 📄',
+  //   url: 'https://docs-svelte-qwer.vercel.app/',
+  //   rel: 'external',
+  // },
+  // {
+  //   name: 'Get QWER 🚀',
+  //   url: 'https://github.com/kwchang0831/svelte-QWER',
+  //   rel: 'external',
+  // },
 ];
 
 export const mobilenavConfig: DD.Nav = {
@@ -130,15 +129,15 @@ export const mobilenavConfig: DD.Nav = {
       name: 'About',
       url: '/about',
     },
-    {
-      name: 'See Docs 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
-    },
-    {
-      name: 'Get QWER 🚀',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
-      rel: 'external',
-    },
+    // {
+    //   name: 'See Docs 📄',
+    //   url: 'https://docs-svelte-qwer.vercel.app/',
+    //   rel: 'external',
+    // },
+    // {
+    //   name: 'Get QWER 🚀',
+    //   url: 'https://github.com/kwchang0831/svelte-QWER',
+    //   rel: 'external',
+    // },
   ],
 };
