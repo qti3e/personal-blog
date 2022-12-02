@@ -11,194 +11,171 @@
 
 <Post>
   <article slot="post_content">
-    <h2 id="qwer"><a href="#qwer">🎉 QWER</a></h2>
+    <h3 id="tl-dr"><a href="#tl-dr">TL;DR</a></h3>
     <p>
-      <a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
-      is a blog starter and static site generator, built with
-      <a href="https://svelte.dev/" rel="external">Svelte</a>
-      and
-      <a href="https://kit.svelte.dev/" rel="external">SvelteKit</a>
-      .
+      Parsa is a professional software engineer who is self-taught and passionate about programming. He is focused on
+      the web3 and decentralized infrastructure, and is excited about the potential of these technologies to expand
+      freedoms and privacy. In his work, Parsa strives to build efficient software. In his free time, he enjoys staying
+      up-to-date on the latest developments in software engineering and spending time with friends. He also has
+      interests in cryptography and freedom of thought, and enjoys using the Rust programming language and contributing
+      to open source projects.
     </p>
-    <ImgZoom src="/preview.webp" alt="QWER Preview" />
-
-    <ImgZoom src="/mobile-preview.webp" alt="QWER Mobile Preview" />
-
-    <h2 id="features"><a href="#features">✨ Features</a></h2>
-    <ul>
-      <li>
-        <p>
-          ⚡ Super fast site performance. Near <strong>Perfect</strong>
-          <a href="https://pagespeed.web.dev/" rel="external">PageSpeed</a>
-           score.
-        </p>
-      </li>
-      <li>
-        <p>
-          🤗 SEO ready with meta, <a href="https://ogp.me/" rel="external">Open Graph</a>
-          ,
-          <a href="https://schema.org/" rel="external">Schema</a>
-          ,
-          <a href="https://json-ld.org/" rel="external">JSON-LD</a>
-          ,
-          <a href="https://indieweb.org/microformats2" rel="external">microformats2</a>
-          .
-        </p>
-      </li>
-      <li><p>🔎 On-site Search.</p></li>
-      <li><p>📱 Mobile-First / Responsive design.</p></li>
-      <li>
-        <p>
-          ✍️ Write post with <a href="https://www.markdownguide.org/basic-syntax/" rel="external">Markdown syntax</a>
-          .
-        </p>
-      </li>
-      <li>
-        <p>
-          🧮 🧪 Wirte Math and Chemical formulas with <a
-            href="https://www.math.brown.edu/johsilve/ReferenceCards/TeXRefCard.v1.5.pdf"
-            rel="external">
-            TeX Syntax
-          </a>
-          via
-          <a href="https://katex.org/" rel="external">Katex</a>
-          &amp;
-          <a href="https://mhchem.github.io/MathJax-mhchem/" rel="external">mhchem</a>
-          .
-        </p>
-      </li>
-      <li><p>📁 Folder-based organization for creating posts.</p></li>
-      <li><p>🏷️ Multi-Tags filtering.</p></li>
-      <li><p>📄 Auto-Generate Table of Content for posts.</p></li>
-      <li>
-        <p>
-          📦 Out-of-the-box support for <a href="https://validator.w3.org/feed/docs/atom.html" rel="external">
-            Atom feed
-          </a>
-          , Sitemap,
-          <a href="https://web.dev/progressive-web-apps/" rel="external">PWA</a>
-          ,
-          <a href="https://www.jsonfeed.org/" rel="external">JSON Feed</a>
-          .
-        </p>
-      </li>
-      <li>
-        <p>
-          🖼️ Automatic image optimization via <a href="https://github.com/JonasKruckenberg/imagetools" rel="external">
-            vite-imagetools
-          </a>
-          .
-        </p>
-      </li>
-      <li><p>⚙️ Support embedding Svelte components and Javascript with Markdown.</p></li>
-      <li>
-        <p>
-          💬 Supports <a href="https://github.com/giscus/giscus" rel="external">Giscus</a>
-           - a comments system powerd by Github Discussions.
-        </p>
-      </li>
-      <li>
-        <p>
-          💄 Utilizes <a href="https://github.com/unocss/unocss" rel="external">UnoCSS</a>
-           - the instant on-demand atomic CSS engine.
-        </p>
-      </li>
-      <li>
-        <p>
-          🌐 i18n via <a href="https://github.com/ivanhofer/typesafe-i18n" rel="external">typesafe-i18n</a>
-          .
-        </p>
-      </li>
-      <li>
-        <p>
-          🚀 Deploy the blog <strong>Free</strong>
-          on
-          <a href="https://vercel.com/" rel="external">Vercel</a>
-          or
-          <a href="https://Netlify.com/" rel="external">Netlify</a>
-          .
-        </p>
-      </li>
-    </ul>
-    <h2 id="learn-more"><a href="#learn-more">📚 Learn More</a></h2>
+    <h2 id="about-me"><a href="#about-me">🎉 About Me</a></h2>
     <p>
-      Please read more at our <a href="https://docs-svelte-qwer.vercel.app/" rel="external">Documentation</a>
-      .
-    </p>
-    <h2 id="current-state"><a href="#current-state">👷 Current State</a></h2>
-    <p>
-      <a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
-       is at its&#39; very early stage. Kindly expect frequent breaking changes.
+      Hi there! My name is Parsa and I am a professional software engineer. I am self-taught and have a passion for
+      programming. It is one of the things that gives me a sense of purpose and fulfillment in life.
     </p>
     <p>
-      Just copy and paste your <code class="inline-code-block">user</code>
-       folder to the latest release.
+      As a software engineer, I am focused on the web3 and decentralized infrastructure. I believe that these
+      technologies have the potential to expand our freedoms and privacy in powerful ways. I am excited about the
+      potential of decentralized systems to enable greater freedom and autonomy for individuals and organizations.
     </p>
     <p>
-      Watch out for the CHANGELOG to see if yor are required to migrate <code class="inline-code-block">
-        user/config
-      </code>
-       or other places.
-    </p>
-    <h2 id="issues-problems-questions"><a href="#issues-problems-questions">❓ Issues / Problems / Questions</a></h2>
-    <p>
-      Please take advantage of our <a
-        href="https://github.com/kwchang0831/svelte-QWER/discussions/categories/q-a"
-        rel="external">
-        Github&#39;s Q&amp;A Discussion board
-      </a>
-      .
-    </p>
-    <h2 id="are-you-using-qwer"><a href="#are-you-using-qwer">😊 Are you using QWER?</a></h2>
-    <p>
-      Please consider adding <code class="inline-code-block">svelte-qwer</code>
-       topic to your repository.
+      In my work, I strive to build software that is reliable, efficient, and user-friendly. I believe that good
+      software should be intuitive and easy to use, even for those who are not technically savvy.
     </p>
     <p>
-      To see who else are using QWER, please check <a href="https://github.com/topics/svelte-qwer" rel="external">
-        Github-Topics: svelte-qwer
-      </a>
-      .
+      In my free time, I enjoy staying up-to-date on the latest developments in the field of software engineering. I
+      also enjoy spending time with my family and friends, and I love to travel and experience new cultures.
     </p>
-    <h2 id="support"><a href="#support">🎉 Support</a></h2>
-    <div
-      class="flex"
-      style="display:inline-block; font-size: 24px; --un-bg-opacity: 1; background-color: rgba(255, 221, 0); border-radius: 0.5rem; padding: 12px 18px; border: 2px solid;">
-      <a class="flex" href="https://www.buymeacoffee.com/kwchang0831" style="color: black;">
-        <span>🥓</span>
-        <span>Buy me a Bacon</span>
-      </a>
-    </div>
-
-    <h2 id="license"><a href="#license">📝 License</a></h2>
-    <p><a href="https://github.com/kwchang0831/svelte-QWER/blob/main/LICENSE" rel="external">MIT</a></p>
-    <h2 id="credits"><a href="#credits">🙏 Credits</a></h2>
-    <ul>
-      <li>
-        <p>
-          Cover Photo by <a
-            href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-            Jess Bailey
-          </a>
-          on
-          <a
-            href="https://unsplash.com/s/photos/note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-            Unsplash
-          </a>
-        </p>
-      </li>
-      <li>
-        <p>
-          Avatar Illustration by <a href="https://icons8.com/illustrations/author/GrbQqWBEhaDS">Liam Moore</a>
-          from
-          <a href="https://icons8.com/illustrations">Ouch!</a>
-        </p>
-      </li>
-    </ul>
-    <h2 id="end"><a href="#end">👍 END</a></h2>
     <p>
-      Thanks so much for interesting in <a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
-      . Please try it out and let me know what you think 😊.
+      Overall, I am a passionate and dedicated software engineer who is excited about the potential of technology to
+      improve our lives and the world around us.
     </p>
+    <p>
+      P.S Parsa is the nickname that I have chosen myself, I do not like to disclose my legal name with people on the
+      internet.
+    </p>
+    <h2 id="crypto"><a href="#crypto">🔗 Crypto</a></h2>
+    <p>
+      In addition to my passion for software engineering, I also have a strong interest in cryptography. I find the
+      mathematical principles and techniques used in cryptography to be fascinating and I enjoy exploring their
+      applications in various contexts.
+    </p>
+    <p>
+      I am also a strong believer in freedom of thought and expression. I believe that everyone has the right to think
+      and express themselves freely, without fear of persecution or censorship. I am committed to promoting and
+      protecting this fundamental right in my work and in my personal life.
+    </p>
+    <p>
+      Overall, my interests in cryptography and freedom of thought inform my passion for building decentralized systems
+      that enable individuals and organizations to communicate and transact securely and privately. I believe that these
+      technologies have the potential to empower people and enable greater freedom and autonomy in the digital age.
+    </p>
+    <h2 id="rust"><a href="#rust">🦀 Rust</a></h2>
+    <p>
+      I am a big fan of the Rust programming language. I love its focus on safety, reliability, and performance. I find
+      that Rust helps me to write efficient and reliable code that is free of common pitfalls such as null or dangling
+      pointer errors.
+    </p>
+    <p>
+      One of the things that I love about Rust is its strong type system. This allows me to catch many errors at compile
+      time, which saves me a lot of time and frustration during development. I also appreciate the fact that Rust has a
+      friendly and welcoming community, which makes it easy to get help and support when I need it.
+    </p>
+    <p>
+      In addition to its safety and reliability, I also love the performance of Rust. The language is designed to be
+      fast and efficient, and I have found that Rust programs often outperform their counterparts written in other
+      languages. This is particularly true when it comes to low-level systems programming tasks, where Rust really
+      shines.
+    </p>
+    <p>
+      Overall, I am a big fan of the Rust programming language and I enjoy using it in my work and personal projects. I
+      believe that it is an incredibly powerful and versatile language that is well-suited to a wide variety of tasks
+      and applications.
+    </p>
+    <h2 id="open-source"><a href="#open-source">🧑🏻‍💻 Open Source</a></h2>
+    <p>
+      In addition to my love of programming and the Rust language, I also enjoy writing open source code and putting my
+      work out in the spotlight. I believe that open source is an incredibly powerful way to share knowledge and
+      collaborate with others in the software engineering community.
+    </p>
+    <p>
+      One of the things that I love about open source is that it allows me to learn from other people&#39;s code. I find
+      that reading and understanding other people&#39;s code is a great way to learn new techniques and approaches to
+      solving problems. It also allows me to see how other people think and approach software engineering tasks, which
+      can be a valuable learning experience.
+    </p>
+    <p>
+      I also enjoy contributing to open source projects. I find that it is a great way to give back to the community and
+      to help others who are working on similar problems. I have contributed to several open source projects and have
+      found the experience to be both rewarding and challenging.
+    </p>
+    <p>
+      Overall, I am a big believer in the power of open source and I enjoy writing and contributing to open source
+      projects. I believe that open source is an important part of the software engineering community and I am proud to
+      be a part of it.
+    </p>
+    <h2 id="education"><a href="#education">📚 Education</a></h2>
+    <p>
+      While I never went to university, I have been programming since I was 9 years old and have developed a strong
+      skill set through self-study and experience. I have participated in many national programming competitions and
+      have been the medalist in two global events.
+    </p>
+    <p>
+      I believe that my passion for programming and my experience competing in programming competitions have given me a
+      strong foundation in the field of software engineering. I have been able to develop a deep understanding of
+      programming concepts and techniques, and I have honed my skills through a combination of self-study and hands-on
+      experience.
+    </p>
+    <p>
+      I am proud of my accomplishments in the field of programming, and I believe that they demonstrate my dedication
+      and ability as a software engineer. I am confident in my ability to develop high-quality software and to
+      contribute to the success of any team or project that I am a part of.
+    </p>
+    <p>
+      Overall, while I never went to university, I have developed a strong skill set and a deep understanding of
+      software engineering through self-study and experience. I am proud of my accomplishments and I believe that I have
+      a lot to offer as a professional software engineer.
+    </p>
+    <h2 id="stand-up-comedy"><a href="#stand-up-comedy">🎭 Stand-up Comedy</a></h2>
+    <p>
+      In addition to my passion for software engineering, I am also a big fan of stand-up comedy. I love the way that
+      stand-up comedians are able to use humor to comment on society and to shed light on important issues.
+    </p>
+    <p>
+      One of my heroes in the world of stand-up comedy is George Carlin. I admire the way that he was able to use humor
+      to tell the truth and to challenge conventional thinking. I also appreciate the fact that he was unafraid to take
+      on controversial topics and to push the boundaries of what was acceptable in comedy.
+    </p>
+    <p>
+      Other stand-up comedians that I enjoy include Ricky Gervais, Bill Burr, and Trevor Noah. I appreciate the unique
+      perspectives and styles that each of these comedians brings to their work, and I enjoy the way that they use humor
+      to comment on society and the world around us.
+    </p>
+    <p>
+      Overall, I am a big fan of stand-up comedy and I enjoy the work of George Carlin, Ricky Gervais, Bill Burr, and
+      Trevor Noah. I believe that these comedians are not only funny, but also thought-provoking and insightful.
+    </p>
+    <h2 id="acknowledgement"><a href="#acknowledgement">🙏🏻 Acknowledgement</a></h2>
+    <p>
+      In my life, I owe many people who have taught me important lessons and helped shape who I am today. Dr. Tooraj
+      Montazeri taught me to want more for myself and to strive for excellence in all that I do. Mr. Chizeri helped me
+      with my first lesson in programming and sparked my love for the subject. Harrison Hines has been a great friend
+      and source of inspiration, always pushing me to be my best and encouraging me to pursue my dreams. He has also
+      been there for me in tough times, providing support and guidance when I needed it most.
+    </p>
+    <p>
+      I am grateful to these people and many others who have had a positive impact on my life. Their guidance and
+      support have been invaluable to me, and I would not be where I am today without their help. I am deeply thankful
+      for the lessons they have taught me and the support they have provided, especially during difficult times.
+    </p>
+    <p>
+      In addition to the people mentioned above, I am also grateful to my beloved partner who has given me the reason to
+      strive for the best. My partner has been a constant source of support and encouragement, always pushing me to be
+      my best and helping me to believe in myself.
+    </p>
+    <p>
+      I am grateful to my partner for his love, support, and guidance. He has been a driving force in my life, helping
+      me to achieve my goals and to become the person I am today. I am grateful to have him by my side and to be able to
+      share my life with him.
+    </p>
+    <p>
+      Overall, I am grateful to the many people in my life who have taught me important lessons and helped me along the
+      way. I am grateful to Dr. Tooraj Montazeri, Mr. Chizeri, Harrison Hines, my beloved partner, and many others for
+      their support and guidance. I am grateful to be able to acknowledge their contributions to my life and to thank
+      them for their help.
+    </p>
+    <p>This page would not be so wordy without ChatGPT :)</p>
   </article>
 </Post>
