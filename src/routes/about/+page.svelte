@@ -36,7 +36,7 @@
     </p>
     <p>
       In my free time, I enjoy staying up-to-date on the latest developments in the field of software engineering. I
-      also enjoy spending time with my family and friends, and I love to travel and experience new cultures.
+      also enjoy spending time with my friends, and I love to travel and experience new cultures.
     </p>
     <p>
       Overall, I am a passionate and dedicated software engineer who is excited about the potential of technology to

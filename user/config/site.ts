@@ -9,13 +9,13 @@ import Avatar_96_PNG from '$assets/avatar.png?w=96&h=96&imagetools';
 import Avatar_192_PNG from '$assets/avatar.png?w=192&h=192&imagetools';
 import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 
-import SiteCover from '$assets/qwer.webp';
+import SiteCover from '$assets/cover.png';
 
 export const siteConfig: Site.Config = {
   url: 'https://parsa.ooo',
   title: 'Parsa\'s Space',
-  subtitle: '🚀 - Built using Svelte with ❤',
-  description: 'Personal and Technical Notes of Parsa!',
+  subtitle: 'Building the Future',
+  description: 'Personal and Technical Notes from Parsa!',
   lang: 'en',
   timeZone: 'EST',
   since: 2022,
