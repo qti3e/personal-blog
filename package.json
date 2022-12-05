@@ -68,7 +68,7 @@
     "@kwchang0831/svelte-qwer": "link:",
     "@sveltejs/adapter-netlify": "1.0.0-next.83",
     "@sveltejs/adapter-node": "1.0.0-next.100",
-    "@sveltejs/adapter-static": "1.0.0-next.47",
+    "@sveltejs/adapter-static": "1.0.0-next.48",
     "@sveltejs/adapter-vercel": "1.0.0-next.81",
     "@sveltejs/kit": "1.0.0-next.532",
     "@types/flexsearch": "^0.7.3",
