@@ -13,7 +13,7 @@ import SiteCover from '$assets/cover.png';
 
 export const siteConfig: Site.Config = {
   url: 'https://parsa.ooo',
-  title: 'Parsa\'s Space',
+  title: "Parsa's Space",
   subtitle: 'Building the Future',
   description: 'Personal and Technical Notes from Parsa!',
   lang: 'en',

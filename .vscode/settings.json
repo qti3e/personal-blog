@@ -1,8 +1,6 @@
 {
-    "cSpell.words": [
-        "Parsa"
-    ],
-    "search.exclude": {
-        "**/node_modules": false
-    }
+  "cSpell.words": ["Parsa"],
+  "search.exclude": {
+    "**/node_modules": false
+  }
 }

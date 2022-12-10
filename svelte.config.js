@@ -20,6 +20,7 @@ const config = {
           fallback: null,
         }),
     csp: { mode: 'auto' },
+    trailingSlash: 'always',
   },
 };
 
