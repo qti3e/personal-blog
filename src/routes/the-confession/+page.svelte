@@ -39,8 +39,9 @@
       I am a minority of another minority, undesired by the majority of each group that I belong to, and that is just
       fine by me as long as I can stand my truth which is the only thing that I care about at this point.
     </p>
-    <aside>💡 The truth will set you free - a wise man said.</aside>
-
+    <blockquote>
+      <p>💡 The truth will set you free - a wise man said.</p>
+    </blockquote>
     <p>
       So I see no reason to not further my level of commitment to the truth that it currently is, which is the last and
       perhaps the hardest step for me, and that is to stop lying to myself.

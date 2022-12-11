@@ -23,7 +23,7 @@
   <meta property="og:type" content="article" />
 
   <meta property="og:title" content={post.title} />
-  <meta name="twitter:title" content={new URL(post.slug, siteConfig.url).href} />
+  <meta name="twitter:title" content={post.title} />
 
   <meta property="og:description" content={post.description} />
   <meta name="twitter:description" content={post.description} />

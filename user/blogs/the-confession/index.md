@@ -1,9 +1,9 @@
 ---
 title: The Confession
-description: 
-summary: ✨ Telling the Truth (to myself)
+description: Telling the Truth to Myself
+summary: There is nothing more important than telling the Truth.
 published: '2022-12-11 02:37:24'
-updated: '2022-12-11 02:37:29'
+updated: '2022-12-11 03:55:45'
 tags:
   - [Life]
 ---
@@ -18,9 +18,7 @@ But now it is time for the truth, for my confession, I have to work just as hard
 
 I am a minority of another minority, undesired by the majority of each group that I belong to, and that is just fine by me as long as I can stand my truth which is the only thing that I care about at this point.
 
-<aside>
-💡 The truth will set you free - a wise man said.
-</aside>
+> 💡 The truth will set you free - a wise man said.
 
 So I see no reason to not further my level of commitment to the truth that it currently is, which is the last and perhaps the hardest step for me, and that is to stop lying to myself.
 
